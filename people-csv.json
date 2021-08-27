@@ -1,0 +1,3714 @@
+{
+  "range": "Sheet1!A1:H409",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "img",
+      "name",
+      "notes",
+      "location",
+      "role",
+      "firm",
+      "url",
+      "Title"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Tony-Kulesa.png?raw=true",
+      "Tony Kulesa",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Petri",
+      "https://www.linkedin.com/in/tony-kulesa/",
+      "Partner, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Sara-Nayeem.png?raw=true",
+      "Sara Nayeem",
+      "MD",
+      "NYC",
+      "Advisor",
+      "Avoro",
+      "https://www.linkedin.com/in/saranayeem/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Alexandra-Cantley.png?raw=true",
+      "Alexandra Cantley",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Polaris Innovation Fund",
+      "https://www.linkedin.com/in/alexandra-cantley-3425a094/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Jonathan-Friedlander.png?raw=true",
+      "Jonathan Friedlander",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Digitalis",
+      "https://www.linkedin.com/in/jonathan-friedlander-61098620/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Mike-Baran.png?raw=true",
+      "Mike Baran",
+      "PhD",
+      "NYC",
+      "Advisor",
+      "Pfizer",
+      "https://www.linkedin.com/in/michaelbaran/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Judy-Savitskaya.png?raw=true",
+      "Judy Savitskaya",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Andreessen Horowitz",
+      "https://www.linkedin.com/in/judysavitskaya/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Cain-McClary.png?raw=true",
+      "Cain McClary",
+      "MD",
+      "NYC",
+      "Workshop Expert",
+      "KdT Ventures",
+      "https://www.linkedin.com/in/cainmcclary/",
+      "Founder, Managing Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dac-Nguyen.png?raw=true",
+      "Dac Nguyen",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Digitalis",
+      "https://digitalisventures.com/team/",
+      "Technical Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Avi-Rosenbaum.png?raw=true",
+      "Avi Rosenbaum",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Tectonic",
+      "https://www.linkedin.com/in/abraham-rosenbaum/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Ian-Peikon.png?raw=true",
+      "Ian Peikon",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Lux",
+      "https://www.linkedin.com/in/ianpeikon/",
+      "Venture Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Gita-Reinitz.png?raw=true",
+      "Gita Reinitz",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "NFX",
+      "https://www.linkedin.com/in/gita-reinitz-a92bb43a/?originalSubdomain=il",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Lee-Cooper.png?raw=true",
+      "Lee Cooper",
+      "JD, MBA",
+      "NYC",
+      "Workshop Expert",
+      "Bayer",
+      "https://www.linkedin.com/in/leecooperbio/",
+      "Senior Director, Venture Investments"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Bradley-Murray.png?raw=true",
+      "Brad Murray",
+      "MBA",
+      "NYC",
+      "Workshop Expert",
+      "Xontogeny",
+      "https://www.linkedin.com/in/bradley-murray-30646a47",
+      "Senior Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Nick-Haft.png?raw=true",
+      "Nick Haft",
+      ".",
+      "NYC",
+      "Workshop Expert",
+      "OMX Ventures",
+      "https://www.linkedin.com/in/nick-haft-15358b2b/",
+      "Managing Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Omar-Khalil.png?raw=true",
+      "Omar Khalil",
+      "MSE",
+      "NYC",
+      "Workshop Expert",
+      "Sante",
+      "https://www.linkedin.com/in/omar-khalil-406b32/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Rima-Chakrabarti.png?raw=true",
+      "Rima Chakrabarti",
+      "MD",
+      "NYC",
+      "Workshop Expert",
+      "KdT Ventures",
+      "https://www.linkedin.com/in/rschakmd/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Phil-Grayeski.png?raw=true",
+      "Phil Grayeski",
+      "MPhil",
+      "NYC",
+      "Workshop Expert",
+      "KdT Ventures",
+      "https://www.linkedin.com/in/phil-grayeski-6b423799/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dan-Robinson.png?raw=true",
+      "Dan Robinson",
+      "MBA",
+      "NYC",
+      "Workshop Expert",
+      "KdT Ventures",
+      "https://www.linkedin.com/in/dan-robinson-490006a/",
+      "Venture Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Cami-Samuels.png?raw=true",
+      "Cami Samuels",
+      "MBA",
+      "National",
+      "Advisor",
+      "Venrock",
+      "https://www.linkedin.com/in/camisamuels",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Uri-Laserson.png?raw=true",
+      "Uri Laserson",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Patch Bio",
+      "https://www.linkedin.com/in/urilaserson/",
+      "CTO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Marc-Lajoie.png?raw=true",
+      "Marc LaJoie",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Outpace Bio",
+      "https://www.linkedin.com/in/marclajoie/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Martin-Immanuel.png?raw=true",
+      "Martin-Immanuel Bittner",
+      "MD, DPhil",
+      "NYC",
+      "Mentor",
+      "Arctoris",
+      "https://www.linkedin.com/in/martinimmanuelbittner/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Monica-Berrondo.png?raw=true",
+      "Monica Berrondo",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Macromoltek",
+      "https://www.linkedin.com/in/monicaberrondo/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Michael-Fenn.png?raw=true",
+      "Michael Fenn",
+      "PhD",
+      "NYC",
+      "Advisor",
+      "Dewpoint Therapeutics",
+      "https://www.linkedin.com/in/michael-fenn-phd/",
+      "Director, External Development"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Shak-Lakhani.png?raw=true",
+      "Shak Lakhani",
+      ".",
+      "NYC",
+      "Mentor",
+      "Avro Life Science",
+      "https://www.linkedin.com/in/shaklakhani/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/David-Younger.png?raw=true",
+      "David Younger",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "A-Alpha Bio",
+      "https://www.linkedin.com/in/david-a-younger/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Derek-Brand.png?raw=true",
+      "Derek Brand",
+      "MBA",
+      "NYC",
+      "Advisor",
+      "NewYorkBIO",
+      "https://www.linkedin.com/in/derekbrand",
+      "COO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Carlo-Yuvienco.png?raw=true",
+      "Carlo Yuvienco",
+      "PhD",
+      "NYC",
+      "Advisor",
+      "NYCEDC",
+      "https://www.linkedin.com/in/yuvienco/",
+      "VP, Life Sciences"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Tarjei-Mikkelsen.png?raw=true",
+      "Tarjei Mikkelsen",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Arsenal Bio",
+      "https://www.linkedin.com/in/tarjei-mikkelsen-b448265b/",
+      "CTO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Haotian-Li.png?raw=true",
+      "Haotian Li",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Redesign Science",
+      "https://www.linkedin.com/in/haotian-li-ba327850/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Artie-Arumov.png?raw=true",
+      "Artie Arumov",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Redesign Science",
+      "https://www.linkedin.com/in/artavazdarumov/",
+      "Business Development Lead"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/DJ-Kleinbaum.png?raw=true",
+      "DJ Kleinbaum",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Emerald Cloud Lab",
+      "https://www.linkedin.com/in/djkleinbaum/",
+      "Co-CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Ben-Wang.png?raw=true",
+      "Ben Wang",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Chimera Bioengineering",
+      "https://www.linkedin.com/in/ben-wang-0771b0/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Parag-Mallick.png?raw=true",
+      "Parag Mallick",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Nautilus Biotechnology",
+      "https://www.linkedin.com/in/parag/",
+      "CEO, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/David-Yang.png?raw=true",
+      "David Yang",
+      ".",
+      "NYC",
+      "Mentor",
+      "8VC",
+      "https://www.linkedin.com/in/davidkmyang",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/David-Moskowitz.png?raw=true",
+      "David Moskowitz",
+      ".",
+      "NYC",
+      "Mentor",
+      "8VC",
+      "https://www.linkedin.com/in/david-moskowitz-2183a8157",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Jason-Park.png?raw=true",
+      "Jason Park",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/jason-park-8a3216a/",
+      "Senior Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Erica-Weinstein.png?raw=true",
+      "Erica Weinstein",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/erica-weinstein-ph-d-48335560/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Nick-Plugis.png?raw=true",
+      "Nick Plugis",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/plugis/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Raman-Talwar.png?raw=true",
+      "Raman Talwar",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/raman-talwar-802a4616/",
+      "Senior Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/marc-illumina.png?raw=true",
+      "Marc Martin-Casas",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Illumina Accelerator",
+      "https://www.linkedin.com/in/marc-martin-casas-38a1288a/",
+      "Seed Investments & Development"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Alex-Hall-Daniels.png?raw=true",
+      "Alex Hall-Daniels",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Indie Bio NYC",
+      "https://www.linkedin.com/in/alexanderhalldaniels123",
+      "Program Manager"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Marie-Yurkovich.png?raw=true",
+      "Marie Yurkovich",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Cambrian Biopharma",
+      "https://www.linkedin.com/in/marie-yurkovich-phd-00bb4883/",
+      "Venture Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Joshua-Elkington.png?raw=true",
+      "Joshua Elkington",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Axial",
+      "https://www.linkedin.com/in/joshua-elkington-b6b37b141/",
+      "Partner, Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Ryan-Pawell.png?raw=true",
+      "Ryan Pawell",
+      ".",
+      "NYC",
+      "Mentor",
+      "Axial",
+      "https://www.linkedin.com/in/rpawell/",
+      "Strategic Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Alec-Reynolds.png?raw=true",
+      "Alec Reynolds",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/alec-reynolds-1b41474/",
+      "SVP"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Charlie-Petty.png?raw=true",
+      "Charlie Petty",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Adjuvant Capital",
+      "https://www.linkedin.com/in/charliepetty/",
+      "Principal, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dan-Becker.png?raw=true",
+      "Dan Becker",
+      "MD, PhD",
+      "NYC",
+      "Workshop Expert",
+      "Access Biotechnology",
+      "https://www.linkedin.com/in/danieljbecker/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Francisco-Dopazo.png?raw=true",
+      "Francisco Dopazo",
+      "MBA",
+      "NYC",
+      "Workshop Expert",
+      "Humboldt Fund",
+      "https://www.linkedin.com/in/franciscodopazo/",
+      "General Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Benjamin-Quiroga.png?raw=true",
+      "Benjamin Quiroga",
+      ".",
+      "NYC",
+      "Workshop Expert",
+      "Humboldt Fund",
+      "https://www.linkedin.com/in/benjamin-q-60587370/",
+      "General Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Krish-Ramadurai.png?raw=true",
+      "Krish Ramadurai",
+      "MBA, MS",
+      "NYC",
+      "Workshop Expert",
+      "Harmonix Fund",
+      "https://www.linkedin.com/in/krishramadurai/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dave-Messina.png?raw=true",
+      "Dave Messina",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Pioneer Fund",
+      "https://www.linkedin.com/in/davemessina/",
+      "Senior Venture Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Vini-Mani.png?raw=true",
+      "Vini Mani",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "Flagship Pioneering",
+      "https://www.linkedin.com/in/vinidhra-mani-phd-8a259123/",
+      "Senior Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Whitney-Snider.png?raw=true",
+      "Whitney Snider",
+      "MD, MBA",
+      "NYC",
+      "Workshop Expert",
+      "Alexandria / LaunchLabs",
+      "https://www.linkedin.com/in/whitney-snider-md-mba-701aba2a/",
+      "Head of LaunchLabs NYC; Principal, Alexandria Venture Investments"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Michael-Norsen.png?raw=true",
+      "Michael Norsen",
+      "MBA",
+      "NYC",
+      "Mentor",
+      "Alexandria / LaunchLabs",
+      "https://www.linkedin.com/in/michael-norsen-bb7a053/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Agata-Magalinskaya.png?raw=true",
+      "Agata Magalinskaya",
+      ".",
+      "NYC",
+      "Mentor",
+      "Alexandria / LaunchLabs",
+      "https://www.linkedin.com/in/agata-magalinskaya/",
+      "Director, Strategic Programming & Events"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dennis-Purcell.png?raw=true",
+      "Dennis Purcell",
+      "MBA",
+      "NYC",
+      "Advisor",
+      "Aisling Capital",
+      "https://www.aislingcapital.com/team/dennis-j-purcell/",
+      "Partner, Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Julie-Diamond.png?raw=true",
+      "Julie Diamond",
+      "PhD",
+      "NYC",
+      "Advisor",
+      "Endless Frontier Labs",
+      "https://www.linkedin.com/in/juliediamond1",
+      "Associate Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Andrew-Lee.png?raw=true",
+      "Andrew Lee",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Northpond Ventures",
+      "https://www.linkedin.com/in/andrewhleephd/",
+      "Senior Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Anton-Xavier.png?raw=true",
+      "Anton Xavier",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Silicon Valley Bank",
+      "https://www.linkedin.com/in/anton-xavier-3809b71b/",
+      "Director, Life Sciences Banking"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Chas-Pulido.png?raw=true",
+      "Chas Pulido",
+      ".",
+      "NYC",
+      "Mentor",
+      "Alix Ventures",
+      "https://www.linkedin.com/in/chas-pulido/",
+      "General Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Althea-Stillman.png?raw=true",
+      "Althea Stillman",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "IP Group",
+      "https://www.linkedin.com/in/altheastillman/",
+      "Associate Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Austin-Diamond.png?raw=true",
+      "Austin Diamond",
+      ".",
+      "NYC",
+      "Mentor",
+      "Longevity Fund / AGE1",
+      "https://www.linkedin.com/in/austindiamond/",
+      "VP, Operations"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Bill-Harvey.png?raw=true",
+      "Bill Harvey",
+      ".",
+      "NYC",
+      "Workshop Expert",
+      "Newmark",
+      "https://www.linkedin.com/in/billharvey31/",
+      "Managing Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Yasmeen-Pattie.png?raw=true",
+      "Yasmeen Pattie",
+      ".",
+      "NYC",
+      "Workshop Expert",
+      "East Egg Project Management",
+      "https://www.linkedin.com/in/yapattie/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/David-Li.png?raw=true",
+      "David Li",
+      "PhD",
+      "NYC",
+      "Mentor",
+      "Everest Detection",
+      "https://www.linkedin.com/in/david-li-9aa210b/l",
+      "Chief Business Officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Asaf-Zviron.png?raw=true",
+      "Asaf Zviron",
+      "PhD",
+      "NYC",
+      "Workshop Expert",
+      "C2i",
+      "https://www.linkedin.com/in/asaf-zviran-5a902b55/",
+      "CEO, CSO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dmytro-Pokhylko.png?raw=true",
+      "Dmytro Pokhylko",
+      ".",
+      "NYC",
+      "Advisor",
+      "Lab to Market Accelerator @ Columbia Tech Ventures",
+      "https://www.linkedin.com/in/dmytro-pokhylko-82b3633/",
+      "Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dov-Shamir.png?raw=true",
+      "Dov Shamir",
+      ".",
+      "NYC",
+      "Advisor",
+      "Mount Sinai Innovation Partners",
+      "https://www.linkedin.com/in/dov-shamir-ph-d-04a1586/",
+      "Senior Manager, Entrepreneurship"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Sadhana-Chitale.png?raw=true",
+      "Sadhana Chitale",
+      ".",
+      "NYC",
+      "Advisor",
+      "Life Sciences Tech Transfer @ NYU Langone",
+      "https://www.linkedin.com/in/sadhana-chitale-a121a913/",
+      "Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Imke-Ehlers.png?raw=true",
+      "Imke Ehlers-Surur",
+      ".",
+      "NYC",
+      "Advisor",
+      "Memorial Sloan Kettering Tech Dev",
+      "https://www.mskcc.org/profile/imke-ehlers-surur",
+      "Associate Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Connor-Dowling.png?raw=true",
+      "Connor Dowling",
+      ".",
+      "NYC",
+      "Advisor",
+      "Weill Cornell Bioventure eLab",
+      "https://www.linkedin.com/in/connordowling/",
+      "Chief Operating Officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Jeffrey-Garanich.png?raw=true",
+      "Jeffrey Garanich",
+      ".",
+      "NYC",
+      "Advisor",
+      "CCNY Master's in Translational Medicine",
+      "https://www.linkedin.com/in/jeffgaranich/",
+      "Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Cat-Donaldson.png?raw=true",
+      "Cat Donaldson",
+      ".",
+      "NYC",
+      "Advisor",
+      "Cold Spring Harbor Laboratory",
+      "https://www.linkedin.com/in/cat-donaldson-b971a4190/",
+      "Chief Development & Biotechnology Program Officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Nidhi-Sabharwal.png?raw=true",
+      "Nidhi Sabharwal",
+      ".",
+      "NYC",
+      "Advisor",
+      "Rockefeller Technology Transfer",
+      "https://www.linkedin.com/in/nidhi-sabharwal-7456994/",
+      "Assistant Director, Business Development & Licensing"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Bunny-Ellerin.png?raw=true",
+      "Bunny Ellerin",
+      ".",
+      "NYC",
+      "Advisor",
+      "CBS Pharma Manag. Program",
+      "https://www.linkedin.com/in/bunnyellerin/",
+      "Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Dan-Heller.png?raw=true",
+      "Dan Heller",
+      ".",
+      "NYC",
+      "Advisor",
+      "MSKCC",
+      "https://www.mskcc.org/research/ski/labs/daniel-heller",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/George-Church.png?raw=true",
+      "George Church",
+      ".",
+      "National",
+      "Advisor",
+      "Harvard",
+      "https://www.linkedin.com/in/george-church-2b86301/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Robert-Langer.png?raw=true",
+      "Robert Langer",
+      ".",
+      "National",
+      "Advisor",
+      "MIT",
+      "https://langerlab.mit.edu/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Neville-Sanjana.png?raw=true",
+      "Neville Sanjana",
+      ".",
+      "NYC",
+      "Advisor",
+      "NYU",
+      "http://sanjanalab.org/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/John-Chodera.png?raw=true",
+      "John Chodera",
+      ".",
+      "NYC",
+      "Advisor",
+      "MSKCC",
+      "https://www.choderalab.org/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Richard-Carvajal.png?raw=true",
+      "Richard Carvajal",
+      ".",
+      "NYC",
+      "Advisor",
+      "Columbia",
+      "https://cancer.columbia.edu/node/15176/researcher",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Robert-Schneider.png?raw=true",
+      "Robert Schneider",
+      ".",
+      "NYC",
+      "Advisor",
+      "NYU",
+      "https://med.nyu.edu/faculty/robert-j-schneider",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Jason-Yang.png?raw=true",
+      "Jason Yang",
+      ".",
+      "NYC",
+      "Advisor",
+      "Rutgers",
+      "https://www.jasonyanglab.org/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/David-Sable.png?raw=true",
+      "David Sable",
+      ".",
+      "NYC",
+      "Advisor",
+      "Columbia",
+      "https://www.flagshippioneering.com/people/david-sable",
+      "Lecturer, Investor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Alejandro-Chavez.png?raw=true",
+      "Alejandro Chavez",
+      ".",
+      "NYC",
+      "Advisor",
+      "Columbia",
+      "https://chavezlab.com/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Brian-Nickerson.png?raw=true",
+      "Brian Nickerson",
+      ".",
+      "NYC",
+      "Advisor",
+      "Mount Sinai",
+      "https://www.mountsinai.org/profiles/brian-j-nickerson",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Craig-Kenesky.png?raw=true",
+      "Craig Kenesky",
+      "JD, PhD",
+      "NYC",
+      "Workshop Expert",
+      "Wilson Sonsini",
+      "https://www.linkedin.com/in/craig-kenesky-ph-d-1ab03a6/",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/nyc/Jeff-Vockrodt.png?raw=true",
+      "Jeff Vockrodt",
+      "JD",
+      "NYC",
+      "Workshop Expert",
+      "Culhane Meadows",
+      "https://www.linkedin.com/in/jeffbvockrodt",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Michael%20Retchin%20-%20New%20York%20and%20National.png?raw=true",
+      "Michael Retchin",
+      "",
+      "National",
+      "Nucleate Team",
+      "MSKCC",
+      "https://www.linkedin.com/in/retchin/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Arielle%20Strasser%20-%20New%20York.png?raw=true",
+      "Arielle Strasser",
+      "",
+      "NYC",
+      "Nucleate Team",
+      "Mount Sinai",
+      "https://www.linkedin.com/in/arielle-strasser-32280a131/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Rose%20Reeb%20-%20New%20York.png?raw=true",
+      "Rose Reeb",
+      "",
+      "NYC",
+      "Nucleate Team",
+      "Columbia",
+      "https://www.linkedin.com/in/josephborrello/",
+      "MBA student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Merouane%20Ounadjela%20-%20New%20York.png?raw=true",
+      "Merouane Ounadjela",
+      "",
+      "NYC",
+      "Nucleate Team",
+      "Columbia",
+      "https://www.linkedin.com/in/rosereeb/",
+      "Master's student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Joseph%20Borrello%20-%20New%20York.png?raw=true",
+      "Joseph Borrello",
+      "",
+      "NYC",
+      "Nucleate Team",
+      "Mount Sinai",
+      "https://www.linkedin.com/in/merouaneounadjela/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Ankita%20Naraparaju-New%20York.png?raw=true",
+      "Ankita Naraparaju",
+      "",
+      "NYC",
+      "Nucleate Team",
+      "Albert Einstein",
+      "https://www.linkedin.com/in/ankita-naraparaju-5980b371/",
+      "MD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Tobias%20Schmid%20-BayArea.png?raw=true",
+      "Tobias Schmid",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UC Berkeley",
+      "https://www.linkedin.com/in/taschmid/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Dorothy%20Tovar%20-%20Bay%20Area.png?raw=true",
+      "Dorothy Tovar",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "Stanford",
+      "https://www.linkedin.com/in/dorothytovar/",
+      "PhD candidate"
+    ],
+    [
+      "",
+      "Zach Cogan",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UCSF",
+      "https://www.linkedin.com/in/zach-cogan-b46806132/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Abhishek%20Gupta-Bay%20Area.png?raw=true",
+      "Abhishek Gupta",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UC Berkeley",
+      "https://www.linkedin.com/in/abhishekgupta-haas/",
+      "MBA/MPH candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/George%20Walters-Marrah%20-%20Bay%20Area.png?raw=true",
+      "George Walters-Marrah",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "Stanford",
+      "https://www.linkedin.com/in/walt4535/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Galen%20Xing%20-%20Bay%20Area.png?raw=true",
+      "Galen Xing",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UC Berkeley",
+      "https://www.linkedin.com/in/walt4535/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Laura%20Liu%20-%20Bay%20Area.png?raw=true",
+      "Laura Liu",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "Stanford",
+      "https://www.linkedin.com/in/laurabliu/",
+      "MBA student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Arman%20Mosenia%20-%20Bay%20Area.png?raw=true",
+      "Arman Mosenia",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UCSF",
+      "https://www.linkedin.com/in/armanmosenia/",
+      "MD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/April%20Chen%20-%20Bay%20Area.png?raw=true",
+      "April Chen",
+      "",
+      "Bay Area",
+      "Nucleate Team",
+      "UCSF",
+      "https://www.linkedin.com/in/april-chen-a22701a4/",
+      "MD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Themasap-Khan.png?raw=true",
+      "Themasap Khan",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Civilization Ventures",
+      "https://civilizationventures.com/",
+      "Vice president"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Shahram-Seyedin.png?raw=true",
+      "Shahram Seyedin-Noor",
+      "JD",
+      "Bay Area",
+      "Workshop Expert",
+      "Civilization Ventures",
+      "https://civilizationventures.com/",
+      "Founder, General partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Noel-Jee.png?raw=true",
+      "Noel Jee",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Illumina Accelerator",
+      "https://www.linkedin.com/in/noeljee/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Gary-Lubin.png?raw=true",
+      "Gary Lubin",
+      "MBA",
+      "Bay Area",
+      "Workshop Expert",
+      "LedgerRun/Merck Capital Ventures",
+      "https://www.linkedin.com/in/gary-lubin-b294471/",
+      "CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Mira-Chaurushiya.png?raw=true",
+      "Mira Chaurushiya",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "5AM Ventures",
+      "https://5amventures.com/team_member/mira-chaurushiya-phd/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michelle-Ho.png?raw=true",
+      "Michelle Ho",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "5AM Ventures",
+      "https://www.linkedin.com/in/michelle-ho-141b9665/",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Lisa-Suennen.png?raw=true",
+      "Lisa Suennen",
+      "MA",
+      "Bay Area",
+      "Workshop Expert",
+      "Venture Valkyrie LLC",
+      "https://venturevalkyrie.com/about/",
+      "Managing partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michael-Henry.png?raw=true",
+      "Michael Henry",
+      "MBA",
+      "Bay Area",
+      "Workshop Expert",
+      "UC Berkeley Skydeck Bio Advisor",
+      "https://www.linkedin.com/in/michaelwhenry/",
+      "CBO at Aldatu"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Alan-Colowick.png?raw=true",
+      "Alan Colowick",
+      "MD, MPH",
+      "Bay Area",
+      "Workshop Expert",
+      "Sofinnova",
+      "https://www.linkedin.com/in/alan-colowick-3723bb4/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Errol-Arkilic.png?raw=true",
+      "Errol Arkilic",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "M34 Capital",
+      "http://www.m34capital.com/about-us/",
+      "CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Terri-Lee.png?raw=true",
+      "Terri Lee",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "MPM Capital, UCSF grad",
+      "https://www.linkedin.com/in/leeterri/",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Namrata-Bhandarkar.png?raw=true",
+      "Namrata Bhandarkar",
+      "MA",
+      "Bay Area",
+      "Workshop Expert",
+      "DSG Consumer Partners",
+      "https://dsgcp.com/",
+      "VC Investments"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Corey-Goodman.png?raw=true",
+      "Corey Goodman",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "UC Berkeley, VenBio",
+      "http://www.venbio.com/corey.html",
+      "PI, Managing Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Matt-Luminais.png?raw=true",
+      "Matt Luminais",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Forsite Labs",
+      "https://www.linkedin.com/in/matt-luminais-28229690/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Joe-Markson.png?raw=true",
+      "Joe Markson",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Novo Holdings",
+      "https://www.linkedin.com/in/joe-markson-01057232/",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Zach-Collins.png?raw=true",
+      "Zach Collins",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "MBC BioLabs",
+      "https://www.linkedin.com/in/zach-m-collins/",
+      "Head of academic alliances"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Widya-Mulyasasmita.png?raw=true",
+      "Widya Mulyasasmita",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Red Tree VC",
+      "https://www.linkedin.com/in/widya-mulyasasmita-6663618/",
+      "Investment founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Elan-Tye.png?raw=true",
+      "Elan Tye",
+      "MBA",
+      "Bay Area",
+      "Workshop Expert",
+      "Jazz VP",
+      "https://jazzvp.com/team/9-team/49-elan-tye",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Francisco-Gimenez.png?raw=true",
+      "Francisco Gimenez",
+      ".",
+      "Bay Area",
+      "Workshop Expert",
+      "8VC",
+      "https://www.linkedin.com/in/franciscojosegimenez/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Seth-Lieblech.png?raw=true",
+      "Seth Lieblech",
+      ".",
+      "Bay Area",
+      "Workshop Expert",
+      "8VC",
+      "https://www.linkedin.com/in/seth-l-80313120/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Vlad-Senatorov.png?raw=true",
+      "Vlad Senatorov",
+      "PhD",
+      "Bay Area",
+      "Mentor",
+      "Reservoir Neuroscience",
+      "http://califesciencesinstitute.org/reservoir-neuroscience/",
+      "Cofounder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Ashley-Zehnder.png?raw=true",
+      "Ashley Zehnder",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Fauna Bio",
+      "www.faunabio.com",
+      "CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Marvin-Gee.png?raw=true",
+      "Marvin Gee",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "3T Biosciences, Stanford Garcia Lab",
+      "https://3tbiosciences.com/team/marvin-gee-phd/",
+      "Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Kevin-Parker.png?raw=true",
+      "Kevin Parker",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Cartography Biosciences, Stanford Howard Chang lab",
+      "https://www.linkedin.com/in/kevin-parker-584a1089/",
+      "Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Jacob-Stern.png?raw=true",
+      "Jacob Stern",
+      "MBA",
+      "Bay Area",
+      "Mentor",
+      "10x Genomics",
+      "https://www.linkedin.com/in/jacobjstern/",
+      "Sr. Product Manager"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Hanadie-Yousef.png?raw=true",
+      "Hanadie Yousef",
+      "PhD",
+      "Bay Area",
+      "Workshop Expert",
+      "Juvena",
+      "https://www.linkedin.com/in/hanadie-yousef-a2120026/",
+      "Founder, CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Barry-Selick.png?raw=true",
+      "Barry Selick",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, Innovation Ventures",
+      "https://innovation.ucsf.edu/people/barry-selick-phd",
+      "Vice Chancellor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Rhonda-Shrader.png?raw=true",
+      "Rhonda Shrader",
+      "MBA",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Berkeley-Haas Entrepreneurship Center",
+      "https://www.linkedin.com/in/rhondashrader/",
+      "Exec Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michael-Moose.png?raw=true",
+      "Michael Moose O'Donnel",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "MTM at UC Berkeley and UCSF",
+      "https://www.linkedin.com/in/moose-odonnell/",
+      "Exec Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Susan-Jenkins.png?raw=true",
+      "Susan Jenkins",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "IGI / Bakar Fellows Program Berkeley",
+      "https://www.linkedin.com/in/susan-jenkins-phd/",
+      "Managing Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Gino-Segre.png?raw=true",
+      "Gino Segre",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "QB3 at UC Berkeley",
+      "https://www.linkedin.com/in/ginosegre/",
+      "Incubator Manager"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Jeni-Janci.png?raw=true",
+      "Jeni Janci",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, Innovation Ventures, Catalyst",
+      "https://www.linkedin.com/in/jenibehjanci/",
+      "Program Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Richard-Lyons.png?raw=true",
+      "Richard Lyons",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley Haas",
+      "https://haas.berkeley.edu/faculty/lyons-richard/",
+      "Chief Innovation & Entrepreneurship Officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Kim-Macpherson.png?raw=true",
+      "Kim MacPherson",
+      "MBA, MPH",
+      "Bay Area",
+      "Advisor",
+      "Berkeley Haas and School of Public Health",
+      "https://haas.berkeley.edu/faculty/macpherson-kimberly/",
+      "Exec Director, Health Management"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Kira-Gardner.png?raw=true",
+      "Kira Gardner",
+      "MSc",
+      "Bay Area",
+      "Advisor",
+      "CITRIS Foundry",
+      "https://www.linkedin.com/in/kiragardner/",
+      "Program Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Charles-Hart.png?raw=true",
+      "Charles Hart",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Catalyst program, Innovation ventures",
+      "https://innovation.ucsf.edu/people/charles-hart-phd",
+      "Executive Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Darren-Cooke.png?raw=true",
+      "Darren Cooke",
+      "JD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley Skydeck",
+      "https://www.linkedin.com/in/ddcooke/",
+      "Advisor- Life Sciences Track"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Regis-Kelly.png?raw=true",
+      "Regis Kelly",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, QB3",
+      "https://profiles.ucsf.edu/regis.kelly",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Kevin-Grimes.png?raw=true",
+      "Kevin Grimes",
+      "MD MBA",
+      "Bay Area",
+      "Advisor",
+      "SPARK Program",
+      "https://www.linkedin.com/in/kevin-grimes-38310930/",
+      "Co-Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Singari-Seshadri.png?raw=true",
+      "Singari Seshadri",
+      ".",
+      "Bay Area",
+      "Advisor",
+      "Stanford Venture Studio",
+      "https://www.gsb.stanford.edu/contact/singari-seshadri",
+      "Head"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Mike-Cohen.png?raw=true",
+      "Mike Cohen",
+      ".",
+      "Bay Area",
+      "Advisor",
+      "IPIRA (Innovation Ecosystem Development & Associate Director, OTL)",
+      "https://ipira.berkeley.edu/bio-michael-cohen-uc-berkeley",
+      "Director,"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Robert-Tjian.png?raw=true",
+      "Robert Tjian",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, HHMI, Tularik, Chan Zuckerberg Initiative",
+      "http://tjian-darzacq.mcb.berkeley.edu/tjian/",
+      "PI, ex-president, co-founder, advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Kevin-Healy.png?raw=true",
+      "Kevin Healy",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Organos, Valitor Bio",
+      "https://biomaterials.berkeley.edu/",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michael-Yartsev.png?raw=true",
+      "Michael Yartsev",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UC Berkeley",
+      "www.michaelyartsev.com",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Marc-Shuman.png?raw=true",
+      "Marc Shuman",
+      "MD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, MTM",
+      "https://www.linkedin.com/in/marc-shuman-3278137/",
+      "Professor Emeritus"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Daniel-Nomura.png?raw=true",
+      "Daniel Nomura",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Frontier Medicines",
+      "https://nomuraresearchgroup.com/",
+      "PI, co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michael-Rape.png?raw=true",
+      "Michael Rape",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Nurix Therapeutics",
+      "https://www.linkedin.com/in/michael-rape-09bb13ba/",
+      "PI, co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Jim-Wells.png?raw=true",
+      "Jim Wells",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, Genentech, Sunesis",
+      "https://pharm.ucsf.edu/wells",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Daniela-Kaufer.png?raw=true",
+      "Daniela Kaufer",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Emagix, Virobay",
+      "https://www.emagix.ca/",
+      "PI, scientific advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Nevin-Krogan.png?raw=true",
+      "Nevin Krogan",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, QB3, QBI",
+      "https://kroganlab.ucsf.edu/krogan-lab",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/DeepakSrivastava.png?raw=true",
+      "Deepak Srivastava",
+      "MD",
+      "Bay Area",
+      "Advisor",
+      "UCSF, Gladstone Institute",
+      "https://www.linkedin.com/in/deepak-srivastava-a91474114/",
+      "PI, President"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/David-Schaffer.png?raw=true",
+      "David Schaffer",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Berkeley Stem Cell Center, 4D Molecular Therapeutics, Ignite Immunotherapies",
+      "https://www.4dmoleculartherapeutics.com/people/david-schaffer-phd/",
+      "PI, Director, Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Dave-Savage.png?raw=true",
+      "Dave Savage",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Scribe Therapeutics",
+      "https://www.linkedin.com/in/davidfranksavage/",
+      "PI, co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Ehud-Isacoff.png?raw=true",
+      "Ehud Isacoff",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Photoswitch Biosciences",
+      "https://www.photoswitchbio.com/",
+      "PI, Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Julia-Schatletzky.png?raw=true",
+      "Julia Schatletzky",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley Center for Emerging & Neglected Diseases, Berkeley Drug Discovery Center, BioBiz",
+      "http://cend.globalhealth.berkeley.edu/julia-schaletzky-phd/",
+      "Exec Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Ben-Oakes.png?raw=true",
+      "Ben Oakes",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Scribe Therapeutics, Berkeley",
+      "https://www.oakeslab.com/",
+      "PI, Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Amy-Herr.png?raw=true",
+      "Amy Herr",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Zephyrus Biosciences",
+      "https://bioeng.berkeley.edu/faculty/amy_herr",
+      "PI, co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Rikky-Muller.png?raw=true",
+      "Rikky Muller",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Iota Biosciences",
+      ".",
+      "PI, Co-ceo/founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Tom-Daniel.png?raw=true",
+      "Tom Daniel",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "University of Washington",
+      "https://www.biology.washington.edu/people/profile/thomas-daniel",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Michael-Snyder.png?raw=true",
+      "Michael Snyder",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Stanford",
+      "http://med.stanford.edu/snyderlab.html",
+      "PI, founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/John-Dueber.png?raw=true",
+      "John Dueber",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Berkeley, Novome, Evolve Bio",
+      "https://dueberlab.berkeley.edu/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Joe-Wu.png?raw=true",
+      "Joe Wu",
+      "MD, PhD",
+      "Bay Area",
+      "Advisor",
+      "Stanford, Juvena, Khloris",
+      "https://www.linkedin.com/in/joseph-wu-b66755132/",
+      "PI, cofounder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Jeffrey-Glenn.png?raw=true",
+      "Jeffrey Glenn",
+      "PhD",
+      "Bay Area",
+      "Advisor",
+      "Stanford",
+      "https://profiles.stanford.edu/jeffrey-glenn",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Galya-Blachman.png?raw=true",
+      "Galya Blachman",
+      "PhD, JD",
+      "Bay Area",
+      "Workshop Expert",
+      "5AM Ventures",
+      "https://5amventures.com/",
+      "Chief compliance officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/bay-area/Terri-Shieh.png?raw=true",
+      "Terri Shieh-Newton",
+      "PhD, JD",
+      "Bay Area",
+      "Workshop Expert",
+      "Mintz",
+      "https://www.linkedin.com/in/terrishiehnewton/",
+      "Legal partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Anjali%20Ramaswamy-New%20Haven.png?raw=true",
+      "Anjali Ramaswamy",
+      "",
+      "National",
+      "Nucleate Team",
+      "Yale",
+      "https://www.linkedin.com/in/anjali-ramaswamy-5a16aa25/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Stephen%20Lanahan%20-%20New%20Haven.png?raw=true",
+      "Stephen Lanahan",
+      "",
+      "New Haven",
+      "Nucleate Team",
+      "Yale",
+      "https://www.linkedin.com/in/stephen-lanahan/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Tina%20Su%20-%20New%20Haven.png?raw=true",
+      "Tina Su",
+      "",
+      "New Haven",
+      "Nucleate Team",
+      "Yale",
+      "https://www.linkedin.com/in/tina-tianjiao-su-455bb645/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Jessica%20Freeze%20-%20New%20Haven.png?raw=true",
+      "Jessica Freeze",
+      "",
+      "New Haven",
+      "Nucleate Team",
+      "Yale",
+      "https://www.linkedin.com/in/jessica-freeze-chemistry/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/ColleenCuffaro.png?raw=true",
+      "Colleen Cuffaro",
+      "PhD",
+      "New Haven",
+      "Advisor",
+      "Canaan Ventures",
+      "https://www.linkedin.com/in/colleen-feriod-cuffaro-82408517/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/RobertBettigole.png?raw=true",
+      "Robert Bettigole",
+      "MPPM",
+      "New Haven",
+      "Advisor",
+      "Elm Street Ventures",
+      "https://www.linkedin.com/in/robert-bettigole-7932587/",
+      "Managing Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/JohnConley.png?raw=true",
+      "John Conley",
+      "MBA",
+      "New Haven",
+      "Advisor",
+      "Launchpad Ventures",
+      "https://www.linkedin.com/in/john-conley-41035839/",
+      "Board"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/UmerRaffat.png?raw=true",
+      "Umer Raffat",
+      "MPH",
+      "New Haven",
+      "Advisor",
+      "Evercore",
+      "https://www.linkedin.com/in/umer-raffat-9553223/",
+      "Sr. Mg Director/ Equity Research"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/AidenAceves.png?raw=true",
+      "Aiden Aceves",
+      "PhD",
+      "New Haven",
+      "Workshop Expert",
+      "Vida Ventures",
+      "https://www.linkedin.com/in/aiden-aceves/",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/SebastienLatapie.png?raw=true",
+      "Sebastien Latapie",
+      "MBA",
+      "New Haven",
+      "Workshop Expert",
+      "Dynamk",
+      "https://www.linkedin.com/in/sebastienlatapie/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/LauraTadvalkar.png?raw=true",
+      "Laura Tadvalkar",
+      "PhD",
+      "New Haven",
+      "Workshop Expert",
+      "RA Capital",
+      "https://www.linkedin.com/in/lauratadvalkar/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/PhillipKong.png?raw=true",
+      "Phillip Kong",
+      "PhD",
+      "New Haven",
+      "Workshop Expert",
+      "Statera Tx",
+      "https://www.linkedin.com/in/philip-kong-a0721a75/",
+      "Co-founder, CSO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/KatherineKayserBricker.png?raw=true",
+      "Katherine Kayser Bricker",
+      "PhD",
+      "New Haven",
+      "Mentor",
+      "Halda Therapeutics",
+      "https://www.linkedin.com/in/katherine-kayser-bricker-15538116/",
+      "CSO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/NatalieMa.png?raw=true",
+      "Natalie Ma",
+      "PhD",
+      "New Haven",
+      "Mentor",
+      "Felix Biotech",
+      "https://www.linkedin.com/in/nataliejingma/",
+      "Head of BD"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/RobertMcbride.png?raw=true",
+      "Robert McBride",
+      "PhD",
+      "New Haven",
+      "Workshop Expert",
+      "Felix Biotech",
+      "https://www.linkedin.com/in/robcmcbride/",
+      "Co-founder, CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/JonSoderstrom.png?raw=true",
+      "Jon Soderstrom",
+      ".",
+      "New Haven",
+      "Advisor",
+      "Yale OCR",
+      "https://www.linkedin.com/in/jon-soderstrom-6157a01/",
+      "Managing Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/AaronRing.png?raw=true",
+      "Aaron Ring",
+      "MD/PhD",
+      "New Haven",
+      "Advisor",
+      "Yale / Immunobiology",
+      "linkedin.com/in/aaron-ring-b34b4869",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/CraigCrews.png?raw=true",
+      "Craig Crews",
+      "PhD",
+      "New Haven",
+      "Advisor",
+      "Yale / MCDB",
+      "https://www.linkedin.com/in/craig-crews-2839725b/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/PaulTurner.png?raw=true",
+      "Paul Turner",
+      "PhD",
+      "New Haven",
+      "Advisor",
+      "Yale / Ecology and Evolutionary Bio",
+      ".",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/FarrenIsaacs.png?raw=true",
+      "Farren Isaacs",
+      "PhD",
+      "New Haven",
+      "Advisor",
+      "Yale / MCDB",
+      "https://www.linkedin.com/in/fisaacs/",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/new-haven/RanjitBindra.png?raw=true",
+      "Ranjit Bindra",
+      "MD/PhD",
+      "New Haven",
+      "Advisor",
+      "Yale / Therapeutic Radiology",
+      "",
+      "PI"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Adhi%20Sikand%20-%20Los%20Angeles.png?raw=true",
+      "Adhi Sikand",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "USC",
+      "https://www.linkedin.com/in/adhi-sikand/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Alex%20Kim%20-%20Los%20Angeles.png?raw=true",
+      "Alex Kim",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "UCLA",
+      "https://www.linkedin.com/in/alex-kim-a57a406b/",
+      "MD-PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Zipeng%20Zeng%20-%20Los%20Angeles.png?raw=true",
+      "Zipeng Zeng",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "USC",
+      "https://www.linkedin.com/in/zipeng-zeng-79bb6981/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Kelly%20Zhang%20-%20Los%20Angeles.png?raw=true",
+      "Kelly Zhang",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "UCLA",
+      "https://www.linkedin.com/in/kelly-hyunghwa-zhang/",
+      "MBA student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Valentina%20Alonso%20-%20Los%20Angeles.png?raw=true",
+      "Valentina Alonso",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "UCLA",
+      "https://www.linkedin.com/in/valentina-alonso-891000188/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Eric%20Goytia%20Nummedal%20-%20Los%20Angeles.png?raw=true",
+      "Eric Goytia Nummedal",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "UCLA",
+      "https://www.linkedin.com/in/ericnummedal/",
+      "MBA candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Bryan%20Gerber-Los%20Angeles.png?raw=true",
+      "Bryan Gerber",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "Caltech",
+      "https://www.linkedin.com/in/gerberbryan/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Tony%20Ma%20-%20Los%20Angeles.png?raw=true",
+      "Tony Ma",
+      "",
+      "Los Angeles",
+      "Nucleate Team",
+      "UCLA",
+      "https://www.linkedin.com/in/tonyma3/",
+      "MBA student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/LlewellynCox.png?raw=true",
+      "LLewellyn Cox",
+      "PhD",
+      "Los Angeles",
+      "Advisor",
+      "MarsBio, LabLaunch",
+      "https://www.linkedin.com/in/llewellyncox/",
+      "GP, CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/MarsBio.png?raw=true",
+      "Arye Lipman",
+      "BS",
+      "Los Angeles",
+      "Advisor",
+      "MarsBio",
+      "https://www.linkedin.com/in/aryelipman/",
+      "GP"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/AliceCheng.png?raw=true",
+      "Alice Cheng",
+      "PhD",
+      "Los Angeles",
+      "Mentor",
+      "Upfront Ventures",
+      "",
+      "Life Science Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/JoeWilson.png?raw=true",
+      "Joe Wilson",
+      "BS",
+      "Los Angeles",
+      "Advisor",
+      "Undeterred Capital",
+      "https://www.linkedin.com/in/joe-wilson-/",
+      "Managing Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/PascalKrotee.png?raw=true",
+      "Pascal Krotee",
+      "PhD",
+      "Los Angeles",
+      "Mentor",
+      "RiverVest Venture Partners",
+      "",
+      "Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/DarrenEng.png?raw=true",
+      "Darren Eng",
+      "BS",
+      "Los Angeles",
+      "Workshop Expert",
+      "LAVA",
+      "https://www.linkedin.com/in/darreneng",
+      "Executive Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/SethBannon.png?raw=true",
+      "Seth Bannon",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "Fifty Years",
+      "",
+      "MP, Co-founder"
+    ],
+    [
+      "",
+      "Jeff Chuang",
+      "",
+      "Los Angeles",
+      "Workshop Expert",
+      "Pasadena Angels"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/YipengZhao.png?raw=true",
+      "Yipeng Zhao",
+      "MS",
+      "Los Angeles",
+      "Workshop Expert",
+      "Embark Ventures",
+      "",
+      "MP/Co-founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/DaveWhelan.png?raw=true",
+      "Dave Whelan",
+      "MBA",
+      "Los Angeles",
+      "Advisor",
+      "Bioscience LA",
+      "https://www.linkedin.com/in/djwhelan/",
+      "CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/JessicaBarnette.png?raw=true",
+      "Jessica Barnette",
+      "MBA, MPH",
+      "Los Angeles",
+      "Mentor",
+      "Bioscience LA",
+      "https://www.linkedin.com/in/jessicabarnette/",
+      "Manager"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/MarieRippen.png?raw=true",
+      "Marie Rippen",
+      "PhD",
+      "Los Angeles",
+      "Mentor",
+      "LabLaunch",
+      "https://www.linkedin.com/in/marierippen/",
+      "COO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/JimCooper.png?raw=true",
+      "Jim Cooper",
+      "MS",
+      "Los Angeles",
+      "Mentor",
+      "BraidTheory",
+      "https://www.linkedin.com/in/spyfor/",
+      "Co-Founder, CSO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/StephaniHsieh.png?raw=true",
+      "Stephani Hsieh",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "Biocom",
+      "",
+      "Executive Director, Los Angeles"
+    ],
+    [
+      "",
+      "Casey O'Neill",
+      "",
+      "Los Angeles",
+      "Mentor",
+      "Biocom",
+      "",
+      "Program Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/HananAlhakim.png?raw=true",
+      "Hanan Al-Hakim",
+      "",
+      "Los Angeles",
+      "Mentor",
+      "Biocom",
+      "",
+      "Associate Director, L.A. Operations, Community Engagement & Partnerships"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/OscarRodarte.png?raw=true",
+      "Oscar Rodarte",
+      "",
+      "Los Angeles",
+      "Mentor",
+      "Biocom",
+      "",
+      "Capital Development Manager"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/ShawnCarbonell-.png?raw=true",
+      "Shawn Carbonell",
+      "MD, PhD",
+      "Los Angeles",
+      "Mentor",
+      "Brazen Bio",
+      "",
+      "CEO/Co-Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/GaryOlsem.png?raw=true",
+      "Gary Olsem",
+      "",
+      "Los Angeles",
+      "Workshop Expert",
+      "BioLabs"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/KarinKoch.png?raw=true",
+      "Karin Koch",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "University Lab Partners",
+      "",
+      "Ecosystem Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/YordanosGebretatios.png?raw=true",
+      "Yordanos Gebretatios",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "LA City",
+      "",
+      "Deputy for Bioscience, Economic and Workforce Development"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/TrevorWilkins.png?raw=true",
+      "Trevor Wilkins",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "ScaleHealth",
+      "",
+      "Director of Growth"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/GeorgeTolomiczenko.png?raw=true",
+      "George Tolomiczenko",
+      "PhD, MPH, MBA",
+      "Los Angeles",
+      "Advisor",
+      "Merkin Institute for Translational Research - Caltech",
+      "https://www.linkedin.com/in/tolomicz",
+      "Executive Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/RyanWitt.png?raw=true",
+      "Ryan Witt",
+      "BA",
+      "Los Angeles",
+      "Advisor",
+      "UCLA Biodesign / Immix Biopharma",
+      "",
+      "Hub Director / COO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/CamiloAnsarah.png?raw=true",
+      "Camilo Ansarah-Sobrinho",
+      "PhD",
+      "Los Angeles",
+      "Advisor",
+      "USC Keck MESH Academy",
+      "",
+      "Associate Director for Business Development and Industry Relations"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/MonicaDean.png?raw=true",
+      "Monica Dean",
+      "MBA",
+      "Los Angeles",
+      "Advisor",
+      "USC Marshall School",
+      "",
+      "Managing Director, Greif Center for Entrepreneurial Studies"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/NikkiLin.png?raw=true",
+      "Nikki Lin",
+      "",
+      "Los Angeles",
+      "Advisor",
+      "Magnify @ CNSI UCLA"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/JuanEspinoza.png?raw=true",
+      "Juan Espinoza",
+      "MD, FAAP",
+      "Los Angeles",
+      "Advisor",
+      "CTIP (CHLA)",
+      "",
+      "Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/HowardXu.png?raw=true",
+      "Howard Xu",
+      "PhD",
+      "Los Angeles",
+      "Advisor",
+      "CSULA / BioSpaceLA",
+      "",
+      "Associate Professor / Director of Incubator Development and Programming"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/KenjiFunahashi.png?raw=true",
+      "Kenji Funahashi",
+      "JD",
+      "Los Angeles",
+      "Workshop Expert",
+      "WSGR",
+      "https://www.linkedin.com/in/kenji-ken-funahashi-78628b4/",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/MattCrowley.png?raw=true",
+      "Matt Crowley",
+      "JD",
+      "Los Angeles",
+      "Workshop Expert",
+      "Crowley Corporate Legal Strategy",
+      "https://www.linkedin.com/in/matt-crowley-52b6272/",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/RickFriedman.png?raw=true",
+      "Rick Friedman",
+      "JD, MBA",
+      "Los Angeles",
+      "Workshop Expert",
+      "NovusGC",
+      "https://www.linkedin.com/in/richard-friedman-3688a111",
+      "CEO, Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/los-angeles/BandhanaKatoch.png?raw=true",
+      "Bandhana Katoch",
+      "JD, MBA, MS, RTTP",
+      "Los Angeles",
+      "Workshop Expert",
+      "Larta Institute",
+      "https://www.linkedin.com/in/bandhanakatoch",
+      "Principal Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Amir%20Ferry%20-%20San%20Diego.png?raw=true",
+      "Amir Ferry",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/amir-ferry-4454b698/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Sammi%20Sison%20-San%20Diego.png?raw=true",
+      "Sammi Sison",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/samantha-sison/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Eric%20Kofman%20-%20San%20Diego.png?raw=true",
+      "Eric Kofman",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/ekofman/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Aditya%20Vasan-%20San%20Diego.png?raw=true",
+      "Aditya Vasan",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/adityavasan/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Samuel%20Hatch-San%20Diego.png?raw=true",
+      "Samuel Hatch",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/samuelhatch/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Margaret%20Burns%20-San%20Diego.png?raw=true",
+      "Margaret Burns",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/margaret-burns-468635109/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Pratibha%20Jagannatha-San%20Diego.png?raw=true",
+      "Pratibha Jagannatha",
+      "",
+      "San Diego",
+      "Nucleate Team",
+      "UCSD",
+      "https://www.linkedin.com/in/margaret-burns-468635109/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/RachelTsunemoto.png?raw=true",
+      "Rachel Tsunemoto Hislop",
+      "PhD",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/YilanShi.png?raw=true",
+      "Yilan Shi",
+      "MS",
+      "San Diego",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/JuliusEdson.png?raw=true",
+      "Julius A. Edson",
+      "PhD",
+      "San Diego",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/AngelaSteinway.png?raw=true",
+      "Angela Steinway",
+      "",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/KevinJubbal.png?raw=true",
+      "Kevin Jubbal",
+      "MD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/SageAronson.png?raw=true",
+      "Sage Aronson",
+      "PhD",
+      "San Diego",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/SierraSimpson.png?raw=true",
+      "Sierra Simpson",
+      "PhD",
+      "San Diego",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/KenBurhop.png?raw=true",
+      "Ken Burhop",
+      "PhD",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/BrettTrimble.png?raw=true",
+      "Brett Trimble",
+      "",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/IdaKhodami.png?raw=true",
+      "Ida Khodami",
+      "MS",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/MiltonGreenberg.png?raw=true",
+      "Milton Greenberg",
+      "",
+      "San Diego",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/PaulGrossman.png?raw=true",
+      "Paul Grossman",
+      "",
+      "San Diego",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/TimScott.png?raw=true",
+      "Tim Scott",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/SteveDowdy.png?raw=true",
+      "Steve Dowdy",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/ArianeTom.png?raw=true",
+      "Ariane Tom",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/GloriaNegrete.png?raw=true",
+      "Gloria Negrete",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/MagdaMarquet.png?raw=true",
+      "Magda Marquet",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/RickFultz.png?raw=true",
+      "Rick Fultz",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/PrashantMali.png?raw=true",
+      "Prashant Mali",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/Clod.png?raw=true",
+      "Clodagh O'Shea",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/MichaelSailor.png?raw=true",
+      "Michael Sailor",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/GeneYeo.png?raw=true",
+      "Gene Yeo",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/VishKrishnan.png?raw=true",
+      "Vish Krishnan",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/LadaRasochova.png?raw=true",
+      "Lada Rasochova",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/JyotiMishra.png?raw=true",
+      "Jyoti Mishra",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/GeoffreyChang.png?raw=true",
+      "Geoffrey Chang",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/MagdaMarquet.png?raw=true",
+      "Magda Marquet",
+      "PhD",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/KlausLey.png?raw=true",
+      "Klaus Ley",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/StephenSchoenberger.png?raw=true",
+      "Stephen Schoenberger",
+      "",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/san-diego/GloriaNegrete.png?raw=true",
+      "Gloria Negrete",
+      "MBA",
+      "San Diego",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Mandi%20Williams%20-National.png?raw=true",
+      "Amanda Williams",
+      "",
+      "National",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/amanda-williams-b863151ba/",
+      "JD Candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Jenna%20Aronson%20-%20National.png?raw=true",
+      "Jenna Aronson",
+      "",
+      "National",
+      "Nucleate Team",
+      "MIT",
+      "https://www.linkedin.com/in/jenna-aronson-397b1b14a/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Soufiane%20Aboulhouda%20-National.png?raw=true",
+      "Soufiane Aboulhouda",
+      "",
+      "National",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/soufiane-ab/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Oliver%20Dodd%20-%20Boston.png?raw=true",
+      "Oliver Dodd",
+      "",
+      "National",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/oliver-dodd-62a720137/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Jeff%20Knox%20-Boston.png?raw=true",
+      "Jeff Knox",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/jeffrey-knox/",
+      "MBA candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Rebecca%20Hu%20-%20Eco.png?raw=true",
+      "Rebecca Hu",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/rebeccayhu/",
+      "MBA student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Sam%20Goldman%20-%20Eco.png?raw=true",
+      "Sam Goldman",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "MIT",
+      "https://www.linkedin.com/in/samuel-goldman-918697105/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Miguel%20Sobral%20-%20Boston.png?raw=true",
+      "Miguel Sobral",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/miguel-sobral-457139210/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Naiwen%20Cui%20-Boston.png?raw=true",
+      "Naiwen Cui",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Broad Institute",
+      "https://www.linkedin.com/in/naiwen-cui-59531439/",
+      "Postdoctoral Fellow"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Kevin%20Dong%20-Boston.png?raw=true",
+      "Kevin Dong",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/kevinddong/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Harim%20Won%20-%20Boston.png?raw=true",
+      "Harim Won",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/harimwon/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Shaye%20Carver%20-Boston.png?raw=true",
+      "Shaye Carver",
+      "",
+      "Boston",
+      "Nucleate Team",
+      "Harvard",
+      "https://www.linkedin.com/in/shaye-carver-14a746147/",
+      "PhD student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Peter-Barrett.png?raw=true",
+      "Peter Barrett",
+      "",
+      "Boston",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jonathan-Fleming.png?raw=true",
+      "Jonathan Fleming",
+      "",
+      "Boston",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Cara-Sterling.png?raw=true",
+      "Cara Sterling",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jen-Rice.png?raw=true",
+      "Jen Rice",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Mike-Fenn.png?raw=true",
+      "Mike Fenn",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "",
+      "Curtis Keith",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Angelika-Fretzen.png?raw=true",
+      "Angelika Fretzen",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ayis-Antoniou.png?raw=true",
+      "Ayis Antoniou",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ifat-Rubin-Bejerano.png?raw=true",
+      "Ifat Rubin-Bejerano",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Shawn-Ayube.png?raw=true",
+      "Shawn Ayube",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Paola-Abella.png?raw=true",
+      "Paola Abella",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Marc-Succi.png?raw=true",
+      "Marc Succi",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Marissa-Pettit.png?raw=true",
+      "Marissa Pettit",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Lucie-Rochard.png?raw=true",
+      "Lucie Rochard",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Chandra-Ramanathan.png?raw=true",
+      "Chandra Ramanathan",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jeff-Stevens-C-1.png?raw=true",
+      "Jeff Stevens",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ben-Auspitz.png?raw=true",
+      "Ben Auspitz",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jamil-Beg.png?raw=true",
+      "Jamil Beg",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Michael-Belliv.png?raw=true",
+      "Michael Belliveau",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Kevin-Bitter.png?raw=true",
+      "Kevin Bitterman",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Abbie-Celniker.png?raw=true",
+      "Abbie Celniker",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Tani-Chen.png?raw=true",
+      "Tani Chen",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Meredith-Fisher.png?raw=true",
+      "Meredith Fisher",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Shaan-Gandhi.png?raw=true",
+      "Shaan Gandhi",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Arvind-Gupta.png?raw=true",
+      "Arvind Gupta",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Peter-Kolchinsky.png?raw=true",
+      "Peter Kolchinsky",
+      "",
+      "Boston",
+      "Advisor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ellie-McGuire.png?raw=true",
+      "Ellie McGuire",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Josh-Resnick.png?raw=true",
+      "Josh Resnick",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ally-Yost.png?raw=true",
+      "Ally Yost",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jeffrey-Ellison.png?raw=true",
+      "Jeffrey Ellison",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Michelle-Nyein.png?raw=true",
+      "Michelle Nyein",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Eric-Raciti.png?raw=true",
+      "Eric Raciti",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Erika-Selli.png?raw=true",
+      "Erika Selli",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Bonnie-Gaude.png?raw=true",
+      "Bonnie Gaudette",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Walter-Kowtoniuk.png?raw=true",
+      "Walter Kowtoniuk",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Pieter-Boelhouwer.png?raw=true",
+      "Pieter Boelhouwer",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jerry-Sewack.png?raw=true",
+      "Jerry Sewack",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Chieze-Ibenech.png?raw=true",
+      "Chieze Ibeneche-Nnewihe",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ben-Dake.png?raw=true",
+      "Ben Dake",
+      "",
+      "Boston",
+      "Workshop Expert"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Kate-Moreau.png?raw=true",
+      "Kate Moreau",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Cris-Montero.png?raw=true",
+      "Cris Montero",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Andrew-Senesi.png?raw=true",
+      "Andrew Senesi",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Meg-Krench.png?raw=true",
+      "Meg Krench",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Monica-Stanciu.png?raw=true",
+      "Monica Stanciu",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Dan-Marks.png?raw=true",
+      "Daniel Marks",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Alyssa-Larson.png?raw=true",
+      "Alyssa Larson",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Briana-Dunn.png?raw=true",
+      "Briana Dunn",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Danielle-Feldman.png?raw=true",
+      "Danielle Feldman",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jonathan-Pritz.png?raw=true",
+      "Jonathan Pritz",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Rooz-Riahi-1.png?raw=true",
+      "Rooz (Roozbeh) Riahi",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Alex-Kopelyan.png?raw=true",
+      "Alex Kopelyan",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Avery-Sikora.png?raw=true",
+      "Avery Sikora",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Geraldine-Paulus.png?raw=true",
+      "Geraldine Paulus",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Michaela%20Copp%20-%20Research%20Triangle.png?raw=true",
+      "Michaela Copp",
+      "",
+      "Research Triangle",
+      "Nucleate Team",
+      "UNC Chapel Hill",
+      "https://www.linkedin.com/in/michaela-copp-47852410b/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Brianna%20Vickerman%20-%20Research%20Triangle.png?raw=true",
+      "Brianna Vickerman",
+      "",
+      "Research Triangle",
+      "Nucleate Team",
+      "UNC Chapel Hill",
+      "https://www.linkedin.com/in/brianna-vickerman-732766102/",
+      "Postdoctoral Researcher"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ross-Leimberg.png?raw=true",
+      "Ross Leimberg",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ashvin-Bashyam.png?raw=true",
+      "Ashvin Bashyam",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Michael-Langer.png?raw=true",
+      "Michael Langer",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Galit-Frydman.png?raw=true",
+      "Galit Frydman",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ranjan-Batra.png?raw=true",
+      "Ranjan Batra",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "LocanaBio",
+      "",
+      "Chief Scientific Officer"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Carl-Novina.png?raw=true",
+      "Carl Novina",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "DFCI",
+      "",
+      "Professor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Mark-Namchuck.png?raw=true",
+      "Mark Namchuck",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Vertex/Harvard",
+      "",
+      "Executive Director of Therapeutics Translation"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Matthew-Burkhardt.png?raw=true",
+      "Matthew Burkhardt",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Self Bio Inc"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Raja-Srinvas.png?raw=true",
+      "Raja Srinvas",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Asimov",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Don-Payan.png?raw=true",
+      "Don Payan",
+      "",
+      "Boston",
+      "Mentor",
+      "Sana, Vividion, Torch, Rigel",
+      "",
+      "Biotech Entrepreneur and Executive"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Retsina-Meyer.png?raw=true",
+      "Retsina Meyer",
+      "",
+      "Boston",
+      "Mentor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Adam-Marblestone.png?raw=true",
+      "Adam Marblestone",
+      "",
+      "Boston",
+      "Mentor",
+      "MIT",
+      "",
+      "Professor"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Emily-Kelty.png?raw=true",
+      "Emily Kelty",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/David-Migl.png?raw=true",
+      "David Migl",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Rooz-Riahi-1.png?raw=true",
+      "Roozbeh Riahi",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Thien-Nguyen.png?raw=true",
+      "Thien Nguyen",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Nathaniel-Brooks-Horwitz.png?raw=true",
+      "Nathaniel Brooks Horwitz",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Dan-Marks.png?raw=true",
+      "Dan Marks",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jessica-Sagers.png?raw=true",
+      "Jessica Sagers",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Gerald-Sewack.png?raw=true",
+      "Gerald Sewack",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Matt-Therkelsen.png?raw=true",
+      "Matt Therkelsen",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jonathan-Lundt.png?raw=true",
+      "Jonathan Lundt",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Gunes-Bozkurt.png?raw=true",
+      "Gunes Bozkurt",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ira-Male.png?raw=true",
+      "Ira Male",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Fares-Nigim.png?raw=true",
+      "Fares Nigim",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "RA Capital"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Naji-Gehchan.png?raw=true",
+      "Naji Gehchan",
+      "",
+      "Boston",
+      "Mentor",
+      "Eli Lilly",
+      "",
+      "Sr Director Sales"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jerry-Casey.png?raw=true",
+      "Jerry Casey",
+      "",
+      "Boston",
+      "Mentor",
+      "Independent consultant",
+      "",
+      "Life Sciences / Diagnostics Executive"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Paul-Hartung.png?raw=true",
+      "Paul Hartung",
+      "",
+      "Boston",
+      "Mentor",
+      "Various",
+      "",
+      "Board Director & Advisor for MedTech"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Andrew-Warren.png?raw=true",
+      "Andrew Warren",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Third Rock Ventures",
+      "",
+      "Sr. Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Devin-Quinlan.png?raw=true",
+      "Devin Quinlan",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "MPM",
+      "",
+      "Sr. Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Taylor%20Cottle%20-Baltimore.png?raw=true",
+      "W. Taylor Cottle",
+      "",
+      "Baltimore",
+      "Nucleate Team",
+      "Johns Hopkins",
+      "https://www.linkedin.com/in/wtaylorcottle/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Amee%20Kapadia-Baltimore.png?raw=true",
+      "Amee Kapadia",
+      "",
+      "Baltimore",
+      "Nucleate Team",
+      "Johns Hopkins",
+      "https://www.linkedin.com/in/amee-kapadia-/",
+      "Master's student"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Dennis%20Gong%20-%20Baltimore.png?raw=true",
+      "Dennis Gong",
+      "",
+      "Baltimore",
+      "Nucleate Team",
+      "Johns Hopkins",
+      "https://www.linkedin.com/in/dennisgong/",
+      "Researcher"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Kyra%20Mendez%20-%20Baltimore.png?raw=true",
+      "Kyra Mendez",
+      "",
+      "Baltimore",
+      "Nucleate Team",
+      "Johns Hopkins",
+      "https://www.linkedin.com/in/kyra-mendez-phd-rn-71503a139/",
+      "MPH candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/organizers/Gosia%20Latallo%20-Baltimore.png?raw=true",
+      "Gosia Latallo",
+      "",
+      "Baltimore",
+      "Nucleate Team",
+      "Johns Hopkins",
+      "https://www.linkedin.com/in/gosia-latallo-2a360890/",
+      "PhD candidate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Chelsea-Place-Johnson.png?raw=true",
+      "Chelsea Place Johnson",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Atlas",
+      "",
+      "Sr. Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jason-Ruth.png?raw=true",
+      "Jason Ruth",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "5:00 AM",
+      "",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Carol-Suh.png?raw=true",
+      "Carol Suh",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "ARCH ventures",
+      "",
+      "Principal"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ibraheem-Badejo.png?raw=true",
+      "Ibraheem Badejo",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "J&J Innovation Center",
+      "",
+      "Sr. Director"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Brian-Yordy.png?raw=true",
+      "Brian Yordy",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "FPrime",
+      "",
+      "Sr. Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Joachim-Seidel--1.png?raw=true",
+      "Joachim (Joe) Seidel",
+      "",
+      "Boston",
+      "Mentor",
+      "Medsight",
+      "",
+      "Principal"
+    ],
+    [
+      "",
+      "Ali Haghighi",
+      "",
+      "Boston",
+      "Mentor",
+      "Sirona Medical Technologies",
+      "",
+      "CEO"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Robert-Klein.png?raw=true",
+      "Robert Klein",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Alkahest",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jorgen-Schmied.png?raw=true",
+      "Jürgen Schmied",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "GATTAquant",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Ida-Pavlichenko.png?raw=true",
+      "Ida Pavlichenko",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "PionEar",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Francois-Vigneault.png?raw=true",
+      "Francois Vigneault",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "ShapeTx",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Aris-Persidis.png?raw=true",
+      "Aris Persidis",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Biovista",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Aoife-Brennan.png?raw=true",
+      "Aoife Brennan",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Synlogic",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Jason-Nor.png?raw=true",
+      "Jason Norris",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "mytide",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Gleb-Kuznetsov.png?raw=true",
+      "Gleb Kuznetsov",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Manifold Bio",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Greg-Erman.png?raw=true",
+      "Greg Erman",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Empira Med",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Samta-Kundu.png?raw=true",
+      "Samta Kundu",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "StrandTx",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Alex-Zhavonorov.png?raw=true",
+      "Alex Zhavonorov",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Insilico Medicine",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Alexis-Rovner.png?raw=true",
+      "Alexis Rovner",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "64x Bio",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Emily-Leproust.png?raw=true",
+      "Emily Leproust",
+      "",
+      "Boston",
+      "Advisor",
+      "Twist Biosciences",
+      "",
+      "Founder"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Isaac-Stoner.png?raw=true",
+      "Isaac Stoner",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Octagon Therapeutics"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Karoly-Nikolich.png?raw=true",
+      "Karoly Nikolich",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Pivotal Bioventure Partners",
+      "",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Danielle-Silva.png?raw=true",
+      "Danielle Silva",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Capital Advisors Group",
+      "",
+      "VP"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Gene-Yeo.png?raw=true",
+      "Gene Yeo",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "UCSD, Proteona, Locana, Eclipse Bio",
+      "",
+      "Professor and Serial Biotech Entrepreneur"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Raquel-Bracken.png?raw=true",
+      "Raquel Bracken",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Venrock",
+      "",
+      "Partner"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Vyas-Ramanan.png?raw=true",
+      "Vyas Ramanan",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Third Rock",
+      "",
+      "Principal"
+    ],
+    [
+      "",
+      "Liam Kurt",
+      "",
+      "Boston",
+      "Workshop Expert",
+      "Reinforcement Ventures"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Mike-Moradi.png?raw=true",
+      "Mike Moradi",
+      "",
+      "Boston",
+      "Mentor",
+      "R3",
+      "",
+      "Managing Partner and Serial Entrepreneur"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Chris-Ghadban.png?raw=true",
+      "Chris Ghadban",
+      "",
+      "Boston",
+      "Mentor",
+      "Astrazeneca",
+      "",
+      "Senior Strategy & Innovation Associate"
+    ],
+    [
+      "https://github.com/rickyhaswifi/nucleate/blob/main/boston/Swarna-Balasubramanian.png?raw=true",
+      "Swarna Balasubramanian",
+      "",
+      "Boston",
+      "Mentor",
+      "Astrazeneca",
+      "",
+      "Emerging Innovations Program Lead"
+    ]
+  ]
+}
